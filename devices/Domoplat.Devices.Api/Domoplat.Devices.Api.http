@@ -1,0 +1,6 @@
+@Domoplat.Devices.Api_HostAddress = http://localhost:5223
+
+GET {{Domoplat.Devices.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

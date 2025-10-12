@@ -1,0 +1,15 @@
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\bin\Debug\net9.0\Domoplat.Tariffs.Entities.deps.json
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\bin\Debug\net9.0\Domoplat.Tariffs.Entities.dll
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\bin\Debug\net9.0\Domoplat.Tariffs.Entities.pdb
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\bin\Debug\net9.0\Domoplat.System.Database.dll
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\bin\Debug\net9.0\Domoplat.System.Database.pdb
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.csproj.AssemblyReference.cache
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.AssemblyInfoInputs.cache
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.AssemblyInfo.cs
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.csproj.CoreCompileInputs.cache
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.8B22A9B0.Up2Date
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.dll
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\refint\Domoplat.Tariffs.Entities.dll
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.pdb
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\ref\Domoplat.Tariffs.Entities.dll
