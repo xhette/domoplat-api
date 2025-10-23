@@ -16,4 +16,9 @@ public class Tariff : IDomoplatEntity<int>
     /// Название типа тарифа
     /// </summary>
     public string Name { get; set; }
+
+    /// <summary>
+    /// Тарифы компании
+    /// </summary>
+    public virtual ICollection<CompanyTariff> CompanyTariffs { get; set; }
 }

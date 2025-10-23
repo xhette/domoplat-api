@@ -65,5 +65,5 @@ public class Company : IDomoplatEntity<Guid>
     /// <summary>
     /// Тарифы компании
     /// </summary>
-    public virtual ICollection<CompanyTariffs> CompanyTariffs { get; set; }
+    public virtual ICollection<CompanyTariff> CompanyTariffs { get; set; }
 }

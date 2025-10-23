@@ -20,7 +20,8 @@
           "net9.0"
         ],
         "sources": {
-          "C:\\work\\uid backend libraries": {}
+          "C:\\work\\uid backend libraries": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
@@ -48,13 +49,9 @@
               "target": "Package",
               "version": "[9.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[9.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "target": "Package",
-              "version": "[9.0.8, )"
+              "version": "[8.0.8, )"
             }
           },
           "imports": [

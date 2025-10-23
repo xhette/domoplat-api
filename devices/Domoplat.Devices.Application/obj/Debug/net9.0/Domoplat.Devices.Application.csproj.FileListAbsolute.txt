@@ -1,0 +1,12 @@
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\bin\Debug\net9.0\Domoplat.Devices.Application.deps.json
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\bin\Debug\net9.0\Domoplat.Devices.Application.dll
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\bin\Debug\net9.0\Domoplat.Devices.Application.pdb
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\Domoplat.Devices.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\Domoplat.Devices.Application.AssemblyInfoInputs.cache
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\Domoplat.Devices.Application.AssemblyInfo.cs
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\Domoplat.Devices.Application.csproj.CoreCompileInputs.cache
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\Domoplat.Devices.Application.sourcelink.json
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\Domoplat.Devices.Application.dll
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\refint\Domoplat.Devices.Application.dll
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\Domoplat.Devices.Application.pdb
+C:\study\domoplat-api\devices\Domoplat.Devices.Application\obj\Debug\net9.0\ref\Domoplat.Devices.Application.dll

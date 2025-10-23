@@ -1,0 +1,12 @@
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\bin\Debug\net9.0\Domoplat.Accruals.Contracts.deps.json
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\bin\Debug\net9.0\Domoplat.Accruals.Contracts.dll
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\bin\Debug\net9.0\Domoplat.Accruals.Contracts.pdb
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\Domoplat.Accruals.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\Domoplat.Accruals.Contracts.AssemblyInfoInputs.cache
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\Domoplat.Accruals.Contracts.AssemblyInfo.cs
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\Domoplat.Accruals.Contracts.csproj.CoreCompileInputs.cache
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\Domoplat.Accruals.Contracts.sourcelink.json
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\Domoplat.Accruals.Contracts.dll
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\refint\Domoplat.Accruals.Contracts.dll
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\Domoplat.Accruals.Contracts.pdb
+C:\study\domoplat-api\accruals\Domoplat.Accruals.Contracts\obj\Debug\net9.0\ref\Domoplat.Accruals.Contracts.dll

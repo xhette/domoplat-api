@@ -1,0 +1,12 @@
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\bin\Debug\net9.0\Domoplat.Tariffs.Contracts.deps.json
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\bin\Debug\net9.0\Domoplat.Tariffs.Contracts.dll
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\bin\Debug\net9.0\Domoplat.Tariffs.Contracts.pdb
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\Domoplat.Tariffs.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\Domoplat.Tariffs.Contracts.AssemblyInfoInputs.cache
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\Domoplat.Tariffs.Contracts.AssemblyInfo.cs
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\Domoplat.Tariffs.Contracts.csproj.CoreCompileInputs.cache
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\Domoplat.Tariffs.Contracts.sourcelink.json
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\Domoplat.Tariffs.Contracts.dll
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\refint\Domoplat.Tariffs.Contracts.dll
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\Domoplat.Tariffs.Contracts.pdb
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Contracts\obj\Debug\net9.0\ref\Domoplat.Tariffs.Contracts.dll

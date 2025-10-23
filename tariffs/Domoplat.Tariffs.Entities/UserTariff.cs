@@ -25,5 +25,5 @@ public class UserTariff : IDomoplatEntity<int>
     /// <summary>
     /// Тариф компании
     /// </summary>
-    public virtual CompanyTariffs CompanyTariff { get; set; }
+    public virtual CompanyTariff CompanyTariff { get; set; }
 }

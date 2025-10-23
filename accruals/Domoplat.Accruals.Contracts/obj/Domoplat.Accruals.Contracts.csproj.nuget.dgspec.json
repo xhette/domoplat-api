@@ -20,7 +20,8 @@
           "net9.0"
         ],
         "sources": {
-          "C:\\work\\uid backend libraries": {}
+          "C:\\work\\uid backend libraries": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {

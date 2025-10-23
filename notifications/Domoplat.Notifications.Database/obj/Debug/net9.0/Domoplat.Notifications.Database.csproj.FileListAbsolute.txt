@@ -1,0 +1,12 @@
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\bin\Debug\net9.0\Domoplat.Notifications.Database.deps.json
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\bin\Debug\net9.0\Domoplat.Notifications.Database.dll
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\bin\Debug\net9.0\Domoplat.Notifications.Database.pdb
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\Domoplat.Notifications.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\Domoplat.Notifications.Database.AssemblyInfoInputs.cache
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\Domoplat.Notifications.Database.AssemblyInfo.cs
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\Domoplat.Notifications.Database.csproj.CoreCompileInputs.cache
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\Domoplat.Notifications.Database.sourcelink.json
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\Domoplat.Notifications.Database.dll
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\refint\Domoplat.Notifications.Database.dll
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\Domoplat.Notifications.Database.pdb
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Database\obj\Debug\net9.0\ref\Domoplat.Notifications.Database.dll

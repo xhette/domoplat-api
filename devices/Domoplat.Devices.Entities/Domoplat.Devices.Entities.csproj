@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\domoplat-backend-packages\Domoplat.System.Database\Domoplat.System.Database.csproj" />
+    <Folder Include="obj\Debug\net9.0\" />
   </ItemGroup>
 
   <PropertyGroup>

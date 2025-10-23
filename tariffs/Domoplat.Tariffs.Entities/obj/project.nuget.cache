@@ -1,30 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "JKEw+esxw24=",
+  "dgSpecHash": "aGY3gFqLuhE=",
   "success": true,
   "projectFilePath": "C:\\study\\domoplat-api\\tariffs\\Domoplat.Tariffs.Entities\\Domoplat.Tariffs.Entities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
-    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "Domoplat.System.Database зависит от Microsoft.Extensions.Configuration (>= 8.0.0), но версия Microsoft.Extensions.Configuration 8.0.0 не найдена. Использовалась версия Microsoft.Extensions.Configuration 9.0.0.",
-      "projectPath": "C:\\study\\domoplat-api\\tariffs\\Domoplat.Tariffs.Entities\\Domoplat.Tariffs.Entities.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\study\\domoplat-api\\tariffs\\Domoplat.Tariffs.Entities\\Domoplat.Tariffs.Entities.csproj",
-      "libraryId": "Microsoft.Extensions.Configuration",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }

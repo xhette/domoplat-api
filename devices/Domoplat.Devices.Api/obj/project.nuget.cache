@@ -1,24 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8emf0KqvIdY=",
+  "dgSpecHash": "9PeN8EVqAKo=",
   "success": true,
   "projectFilePath": "C:\\study\\domoplat-api\\devices\\Domoplat.Devices.Api\\Domoplat.Devices.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
     "C:\\Users\\xhett\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "Domoplat.Devices.Api зависит от Microsoft.AspNetCore.OpenApi (>= 9.0.7), но версия Microsoft.AspNetCore.OpenApi 9.0.7 не найдена. Использовалась версия Microsoft.AspNetCore.OpenApi 9.0.8.",
-      "projectPath": "C:\\study\\domoplat-api\\devices\\Domoplat.Devices.Api\\Domoplat.Devices.Api.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\study\\domoplat-api\\devices\\Domoplat.Devices.Api\\Domoplat.Devices.Api.csproj",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }

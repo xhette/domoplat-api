@@ -1,0 +1,12 @@
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\bin\Debug\net9.0\Domoplat.Identity.Contracts.deps.json
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\bin\Debug\net9.0\Domoplat.Identity.Contracts.dll
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\bin\Debug\net9.0\Domoplat.Identity.Contracts.pdb
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\Domoplat.Identity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\Domoplat.Identity.Contracts.AssemblyInfoInputs.cache
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\Domoplat.Identity.Contracts.AssemblyInfo.cs
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\Domoplat.Identity.Contracts.csproj.CoreCompileInputs.cache
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\Domoplat.Identity.Contracts.sourcelink.json
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\Domoplat.Identity.Contracts.dll
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\refint\Domoplat.Identity.Contracts.dll
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\Domoplat.Identity.Contracts.pdb
+C:\study\domoplat-api\identity\Domoplat.Identity.Contracts\obj\Debug\net9.0\ref\Domoplat.Identity.Contracts.dll

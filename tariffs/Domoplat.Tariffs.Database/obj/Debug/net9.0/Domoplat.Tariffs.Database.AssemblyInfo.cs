@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Domoplat.Tariffs.Database")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0156b2110b7b6e39bbc9542bbab8016878a99ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Domoplat.Tariffs.Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Domoplat.Tariffs.Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,7 +8,7 @@ namespace Domoplat.Tariffs.Database;
 /// </summary>
 public class TariffsDbContext : DbContext {
     public DbSet<Company> Companies { get; set; }
-    public DbSet<CompanyTariffs> CompanyTariffs { get; set; }
+    public DbSet<CompanyTariff> CompanyTariffs { get; set; }
     public DbSet<Tariff> Tariffs { get; set; }
     public DbSet<UserTariff> UserTariffs { get; set; }
 

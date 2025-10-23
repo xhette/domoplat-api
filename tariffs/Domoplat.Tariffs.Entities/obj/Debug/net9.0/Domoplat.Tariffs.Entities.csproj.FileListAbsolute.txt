@@ -13,3 +13,4 @@ C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domopla
 C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\refint\Domoplat.Tariffs.Entities.dll
 C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.pdb
 C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\ref\Domoplat.Tariffs.Entities.dll
+C:\study\domoplat-api\tariffs\Domoplat.Tariffs.Entities\obj\Debug\net9.0\Domoplat.Tariffs.Entities.sourcelink.json

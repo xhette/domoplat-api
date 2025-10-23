@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+SelGd4vSM=",
+  "success": true,
+  "projectFilePath": "C:\\study\\domoplat-api\\notifications\\Domoplat.Notifications.Api\\Domoplat.Notifications.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\xhett\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

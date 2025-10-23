@@ -5,7 +5,7 @@ namespace Domoplat.Tariffs.Entities;
 /// <summary>
 /// Тариф компании
 /// </summary>
-public class CompanyTariffs : IDomoplatEntity<int>
+public class CompanyTariff : IDomoplatEntity<int>
 {
     /// <summary>
     /// Идентификатор тарифа компании
@@ -41,4 +41,9 @@ public class CompanyTariffs : IDomoplatEntity<int>
     /// Тариф
     /// </summary>
     public virtual Tariff Tariff { get; set; }
+
+    /// <summary>
+    /// Тарифы пользователей
+    /// </summary>
+    public virtual ICollection<UserTariff> UserTariffs { get; set; }
 }
