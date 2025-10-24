@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Domoplat.Devices.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0156b2110b7b6e39bbc9542bbab8016878a99ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d2a63a56f5d11ef9e2b3f472645a8bfa1d091b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Domoplat.Devices.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Domoplat.Devices.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
