@@ -16,336 +16,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ca3816d-fe57-4d89-b88a-b8d8a1257add" name="Changes" comment="#0000 added tariffs db, backend libraries proj and notification project">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Domoplat/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Domoplat/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Domoplat/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/bin/Debug/net9.0/Domoplat.Accruals.Api.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/bin/Debug/net9.0/Domoplat.Accruals.Api.staticwebassets.endpoints.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/ref/Domoplat.Accruals.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/Debug/net9.0/Domoplat.Accruals.Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/Debug/net9.0/Domoplat.Accruals.Application.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/Debug/net9.0/Domoplat.Accruals.Contracts.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/Debug/net9.0/Domoplat.Accruals.Contracts.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/Debug/net9.0/Domoplat.Accruals.Contracts.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/Debug/net9.0/refint/Domoplat.Accruals.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Debug/net9.0/Domoplat.Accruals.Database.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Debug/net9.0/Domoplat.Accruals.Database.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Debug/net9.0/Domoplat.Accruals.Database.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/Debug/net9.0/Domoplat.Accruals.Entities.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/bin/Debug/net9.0/Domoplat.Devices.Api.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/bin/Debug/net9.0/Domoplat.Devices.Application.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/bin/Debug/net9.0/Domoplat.Devices.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/bin/Debug/net9.0/Domoplat.Devices.Contracts.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/bin/Debug/net9.0/Domoplat.Devices.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/bin/Debug/net9.0/Domoplat.Devices.Contracts.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/refint/Domoplat.Devices.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/Debug/net9.0/Domoplat.Devices.Entities.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/Debug/net9.0/Domoplat.Devices.Entities.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/Debug/net9.0/Domoplat.Devices.Entities.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/bin/Debug/net9.0/Domoplat.Identity.Api.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/bin/Debug/net9.0/Domoplat.Identity.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/bin/Debug/net9.0/Domoplat.Identity.Api.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/bin/Debug/net9.0/Domoplat.Identity.Api.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/bin/Debug/net9.0/Domoplat.Identity.Api.staticwebassets.endpoints.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Debug/net9.0/Domoplat.E8EE1963.Up2Date" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Debug/net9.0/Domoplat.Identity.Api.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Debug/net9.0/Domoplat.Identity.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Debug/net9.0/refint/Domoplat.Identity.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Debug/net9.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/bin/Debug/net9.0/Domoplat.Identity.Application.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/Debug/net9.0/Domoplat.Identity.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/Debug/net9.0/Domoplat.Identity.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/bin/Debug/net9.0/Domoplat.Identity.Contracts.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/bin/Debug/net9.0/Domoplat.Identity.Contracts.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/Debug/net9.0/Domoplat.Identity.Contracts.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/Debug/net9.0/Domoplat.Identity.Contracts.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/Debug/net9.0/Domoplat.Identity.Contracts.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/Debug/net9.0/Domoplat.Identity.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Debug/net9.0/Domoplat.Identity.Database.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Debug/net9.0/Domoplat.Identity.Database.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/Debug/net9.0/Domoplat.Identity.Entities.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/Debug/net9.0/Domoplat.Identity.Entities.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/Domoplat.Notifications.Api.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/bin/Debug/net9.0/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/Domoplat.E59AB3AB.Up2Date" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/Domoplat.Notifications.Api.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/Domoplat.Notifications.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/Domoplat.Notifications.Api.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/Domoplat.Notifications.Api.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/Domoplat.Notifications.Api.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/Domoplat.Notifications.Api.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/Domoplat.Notifications.Api.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Domoplat.Notifications.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/Domoplat.Notifications.Api.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/bin/Debug/net9.0/Domoplat.Notifications.Application.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Domoplat.Notifications.Application.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Domoplat.Notifications.Application.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/bin/Debug/net9.0/Domoplat.Notifications.Contracts.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Domoplat.Notifications.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/bin/Debug/net9.0/Domoplat.Notifications.Database.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/bin/Debug/net9.0/Domoplat.Notifications.Database.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/Debug/net9.0/Domoplat.Notifications.Database.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/Debug/net9.0/ref/Domoplat.Notifications.Database.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/Debug/net9.0/refint/Domoplat.Notifications.Database.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/Domoplat.Notifications.Database.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/Domoplat.Notifications.Database.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/Domoplat.Notifications.Entities.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/bin/Debug/net9.0/Domoplat.Notifications.Entities.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/obj/Debug/net9.0/Domoplat.Notifications.Entities.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/obj/Debug/net9.0/Domoplat.Notifications.Entities.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/obj/Debug/net9.0/Domoplat.Notifications.Entities.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/obj/Domoplat.Notifications.Entities.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/bin/Debug/net9.0/Domoplat.Tariffs.Api.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/bin/Debug/net9.0/Domoplat.Tariffs.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/bin/Debug/net9.0/Domoplat.Tariffs.Api.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/bin/Debug/net9.0/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/ref/Domoplat.Tariffs.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/bin/Debug/net9.0/Domoplat.Tariffs.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/bin/Debug/net9.0/Domoplat.Tariffs.Contracts.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/ref/Domoplat.Tariffs.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/refint/Domoplat.Tariffs.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/Domoplat.Accruals.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/Domoplat.Accruals.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Domoplat.Accruals.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Domoplat.Accruals.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Domoplat.Accruals.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/Domoplat.Accruals.Api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/Domoplat.Accruals.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/Domoplat.Accruals.Application.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/Domoplat.Accruals.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/Domoplat.Accruals.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/Domoplat.Accruals.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/Domoplat.Accruals.Application.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/Domoplat.Accruals.Contracts.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/Domoplat.Accruals.Contracts.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/Domoplat.Accruals.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/Domoplat.Accruals.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/Domoplat.Accruals.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/Domoplat.Accruals.Contracts.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/Domoplat.Accruals.Database.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/Domoplat.Accruals.Database.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Domoplat.Accruals.Database.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Domoplat.Accruals.Database.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Domoplat.Accruals.Database.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Domoplat.Accruals.Database.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Domoplat.Accruals.Database.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/Domoplat.Accruals.Database.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/Domoplat.Accruals.Entities.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/Domoplat.Accruals.Entities.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/Domoplat.Accruals.Entities.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/Domoplat.Accruals.Entities.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/Domoplat.Accruals.Entities.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/Domoplat.Accruals.Entities.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Debug/net9.0/Domoplat.Devices.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Domoplat.Devices.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Domoplat.Devices.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Domoplat.Devices.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/Domoplat.Devices.Api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Domoplat.Devices.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Domoplat.Devices.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Domoplat.Devices.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/Domoplat.Devices.Application.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Debug/net9.0/Domoplat.Devices.Contracts.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Domoplat.Devices.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Domoplat.Devices.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Domoplat.Devices.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/Domoplat.Devices.Contracts.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/Domoplat.Devices.Database.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/Domoplat.Devices.Database.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Debug/net9.0/Domoplat.Devices.Database.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Domoplat.Devices.Database.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Domoplat.Devices.Database.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Domoplat.Devices.Database.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Domoplat.Devices.Database.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Domoplat.Devices.Database.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/Domoplat.Devices.Database.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/Domoplat.Devices.Entities.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/Domoplat.Devices.Entities.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/Domoplat.Devices.Entities.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/Domoplat.Devices.Entities.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/Domoplat.Devices.Entities.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/Domoplat.Devices.Entities.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/Domoplat.Identity.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/Domoplat.Identity.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Domoplat.Identity.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Domoplat.Identity.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Domoplat.Identity.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/Domoplat.Identity.Api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/Domoplat.Identity.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/Domoplat.Identity.Application.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/Domoplat.Identity.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/Domoplat.Identity.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/Domoplat.Identity.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/Domoplat.Identity.Application.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/Domoplat.Identity.Contracts.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/Domoplat.Identity.Contracts.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/Domoplat.Identity.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/Domoplat.Identity.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/Domoplat.Identity.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/Domoplat.Identity.Contracts.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/Domoplat.Identity.Database.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/Domoplat.Identity.Database.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Domoplat.Identity.Database.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Domoplat.Identity.Database.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Domoplat.Identity.Database.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Domoplat.Identity.Database.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Domoplat.Identity.Database.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/Domoplat.Identity.Database.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/Domoplat.Identity.Entities.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/Domoplat.Identity.Entities.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/Domoplat.Identity.Entities.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/Domoplat.Identity.Entities.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/Domoplat.Identity.Entities.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/Domoplat.Identity.Entities.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Domoplat.Tariffs.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Domoplat.Tariffs.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Domoplat.Tariffs.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/Domoplat.Tariffs.Api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Debug/net9.0/Domoplat.Tariffs.Application.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Domoplat.Tariffs.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Domoplat.Tariffs.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Domoplat.Tariffs.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/Domoplat.Tariffs.Application.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Debug/net9.0/Domoplat.Tariffs.Contracts.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Domoplat.Tariffs.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Domoplat.Tariffs.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Domoplat.Tariffs.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/Domoplat.Tariffs.Contracts.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/Domoplat.Tariffs.Database.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/Domoplat.Tariffs.Database.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/TariffsDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/TariffsDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/TariffsEntityTypeConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/TariffsEntityTypeConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Domoplat.Tariffs.Database.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Domoplat.Tariffs.Database.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Domoplat.Tariffs.Database.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Domoplat.Tariffs.Database.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Domoplat.Tariffs.Database.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/Domoplat.Tariffs.Database.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/Company.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/Company.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/CompanyTariffs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/Domoplat.Tariffs.Entities.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/Domoplat.Tariffs.Entities.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/Tariff.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/Tariff.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/UserTariff.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/UserTariff.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/bin/Debug/net9.0/Domoplat.System.Database.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/bin/Debug/net9.0/Domoplat.System.Database.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/bin/Debug/net9.0/Domoplat.System.Database.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/bin/Debug/net9.0/Domoplat.System.Database.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/bin/Debug/net9.0/Domoplat.Tariffs.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/bin/Debug/net9.0/Domoplat.Tariffs.Entities.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/bin/Debug/net9.0/Domoplat.Tariffs.Entities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/bin/Debug/net9.0/Domoplat.Tariffs.Entities.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/Domoplat.Tariffs.Entities.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/ref/Domoplat.Tariffs.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/ref/Domoplat.Tariffs.Entities.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/refint/Domoplat.Tariffs.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Debug/net9.0/refint/Domoplat.Tariffs.Entities.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Domoplat.Tariffs.Entities.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Domoplat.Tariffs.Entities.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Domoplat.Tariffs.Entities.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/Domoplat.Tariffs.Entities.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/project.nuget.cache" afterDir="false" />
+    <list default="true" id="5ca3816d-fe57-4d89-b88a-b8d8a1257add" name="Changes" comment="#0000 added message queue consumer abstraction">
+      <change beforePath="$PROJECT_DIR$/Domoplat.System.MessageQueue/Consuming/MessageConsumer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domoplat.System.MessageQueue/Consuming/MessageConsumer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,10 +28,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/study/domoplat-api/tariffs/Domoplat.Tariffs.Database/TariffsEntityTypeConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domoplat.System.MessageQueue/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/study/domoplat-api/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/study/domoplat-api/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/study/domoplat-api/accruals/Domoplat.Accruals.Api/obj/Debug/net9.0/Domoplat.Accruals.Api.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/study/domoplat-api/accruals/Domoplat.Accruals.Contracts/obj/Debug/net9.0/Domoplat.Accruals.Contracts.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/backend-libraries/Domoplat.System.Database/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/backend-libraries/Domoplat.System.Database/obj/Debug/net8.0/Domoplat.System.Database.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/study/domoplat-api/backend-libraries/Domoplat.System.Database/obj/Debug/net8.0/Domoplat.System.Database.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/study/domoplat-api/devices/Domoplat.Devices.Application/obj/Debug/net9.0/Domoplat.Devices.Application.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/study/domoplat-api/tariffs/Domoplat.Tariffs.Api/obj/Debug/net9.0/Domoplat.Tariffs.Api.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/study/domoplat-api/tariffs/Domoplat.Tariffs.Database/obj/Debug/net9.0/Domoplat.Tariffs.Database.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/study/domoplat-api/tariffs/Domoplat.Tariffs.Entities/Company.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/study/domoplat-api/tariffs/Domoplat.Tariffs.Entities/CompanyTariffs.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -373,19 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Domoplat.Accruals.Api: http">
     <configuration name="Domoplat.Accruals.Api: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/Domoplat.Accruals.Api.csproj" />
@@ -549,6 +228,15 @@
       <workItem from="1761234821486" duration="234000" />
       <workItem from="1761236872288" duration="1680000" />
     </task>
+    <task id="LOCAL-00001" summary="#0000 added message queue consumer abstraction">
+      <option name="closed" value="true" />
+      <created>1761325396278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761325396278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,6 +258,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="#0000 added tariffs db, backend libraries proj and notification project" />
-    <option name="LAST_COMMIT_MESSAGE" value="#0000 added tariffs db, backend libraries proj and notification project" />
+    <MESSAGE value="#0000 added message queue consumer abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="#0000 added message queue consumer abstraction" />
   </component>
 </project>

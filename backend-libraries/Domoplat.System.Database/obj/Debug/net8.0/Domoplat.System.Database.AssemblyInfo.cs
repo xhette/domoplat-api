@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A database system library for Domoplat platform")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d2a63a56f5d11ef9e2b3f472645a8bfa1d091b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Domoplat.System.Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Domoplat.System.Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
