@@ -70,7 +70,7 @@ public class MessageConsumer<TKey, TMessage> : BackgroundService
         }
     }
     
-    private ClientConfig BuildClientConfig() => new ClientConfig
+    private ClientConfig BuildClientConfig() => new()
     {
         BootstrapServers = _kafkaConfig.Value.BootstrapServers,
         AllowAutoCreateTopics = true,
@@ -79,7 +79,6 @@ public class MessageConsumer<TKey, TMessage> : BackgroundService
 
     private IConsumer<TKey, TMessage> BuildConsumer()
     {
-        
         var config = new ConsumerConfig
         {
             BootstrapServers = _kafkaConfig.Value.BootstrapServers,
