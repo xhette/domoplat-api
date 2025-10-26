@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Domoplat.System.MessageQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+801855e4c93823fc5669f287278f5cb09aff9283")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1c637184f882730f28ef62f1199e060d062a5f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Domoplat.System.MessageQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Domoplat.System.MessageQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
