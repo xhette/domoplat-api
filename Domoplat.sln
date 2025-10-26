@@ -70,6 +70,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution-props", "solution-props", "{B894C380-AA93-4211-BE5C-439674822DBE}"
 	ProjectSection(SolutionItems) = preProject
 		parent.props = parent.props
+		Dockerfile = Dockerfile
+		docker-compose.yml = docker-compose.yml
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domoplat.System.MessageQueue", "backend-libraries\Domoplat.System.MessageQueue\Domoplat.System.MessageQueue.csproj", "{4C1B015C-4B05-43A5-8A8C-152422771FFE}"

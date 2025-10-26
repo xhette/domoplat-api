@@ -17,91 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ca3816d-fe57-4d89-b88a-b8d8a1257add" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Consuming/Consumers/GuidMessageConsumer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/IoC/ServiceCollectionExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Producing/Interfaces/IMessageProducer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Producing/Producers/GuidMessageProducer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Producing/Producers/MessageProducer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Serializers/MessageJsonDeserializer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Serializers/MessageJsonSerializer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Implementations/BaseNotificationSender.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Implementations/EmailNotificationSender.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Implementations/NotificationSenderFactory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Interfaces/INotificationSender.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Mapping/MappingProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/MessageQueue/NotificationMessageConsumerHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Configs/NotificationsConfig.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Configs/SmtpConfig.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Enums/NotificationChanelType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/MessageQueue/SendNotificationMessage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Requests/BaseNotificationMessageRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Requests/ChanelNotificationMessageRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Requests/UserNotificationMessageRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Results/SendNotificationResult.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Domoplat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Domoplat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Contracts/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/accruals/Domoplat.Accruals.Entities/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-libraries/Domoplat.System.Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Consuming/IMessageConsumeHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Consuming/Interfaces/IMessageConsumeHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Consuming/MessageConsumer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Consuming/Consumers/MessageConsumer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Domoplat.System.MessageQueue.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/backend-libraries/Domoplat.System.MessageQueue/Domoplat.System.MessageQueue.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Contracts/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/devices/Domoplat.Devices.Entities/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Contracts/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/identity/Domoplat.Identity.Entities/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Domoplat.Notifications.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/Domoplat.Notifications.Application.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/bin/Debug/net9.0/Domoplat.Notifications.Application.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/bin/Debug/net9.0/Domoplat.Notifications.Application.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/bin/Debug/net9.0/Domoplat.Notifications.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/bin/Debug/net9.0/Domoplat.Notifications.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/bin/Debug/net9.0/Domoplat.Notifications.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/bin/Debug/net9.0/Domoplat.Notifications.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/Domoplat.Notifications.Application.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/ref/Domoplat.Notifications.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/ref/Domoplat.Notifications.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/refint/Domoplat.Notifications.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Debug/net9.0/refint/Domoplat.Notifications.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Domoplat.Notifications.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Domoplat.Notifications.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Domoplat.Notifications.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Domoplat.Notifications.Application.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Domoplat.Notifications.Application.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/Domoplat.Notifications.Application.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/bin/Debug/net9.0/Domoplat.Notifications.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/bin/Debug/net9.0/Domoplat.Notifications.Contracts.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/bin/Debug/net9.0/Domoplat.Notifications.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/bin/Debug/net9.0/Domoplat.Notifications.Contracts.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/Domoplat.Notifications.Contracts.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/ref/Domoplat.Notifications.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/ref/Domoplat.Notifications.Contracts.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/refint/Domoplat.Notifications.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/Debug/net9.0/refint/Domoplat.Notifications.Contracts.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Contracts/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/Domoplat.Notifications.Entities/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Contracts/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Database/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tariffs/Domoplat.Tariffs.Entities/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domoplat.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Domoplat.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,20 +73,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
+    "Docker.uid docker: Compose Deployment.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "yaml"
+    ]
   }
-}</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Domoplat.Accruals.Api: http">
+}]]></component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.redis-commander: Compose Deployment">
     <configuration name="Domoplat.Accruals.Api: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/accruals/Domoplat.Accruals.Api/Domoplat.Accruals.Api.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net9.0" />
@@ -319,6 +244,79 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.kafka-ui: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="kafka-ui" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.pgadmin: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="pgadmin" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.redis-commander: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="redis-commander" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uid docker: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="../../work/uid docker/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.redis-commander: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.kafka-ui: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.pgadmin: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.uid docker: Compose Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -363,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761483313900</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="#added notifications">
+      <option name="closed" value="true" />
+      <created>1761507144258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761507144258</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,6 +394,7 @@
     <MESSAGE value="#0000" />
     <MESSAGE value="#0000 added kafka" />
     <MESSAGE value="*" />
-    <option name="LAST_COMMIT_MESSAGE" value="*" />
+    <MESSAGE value="#added notifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="#added notifications" />
   </component>
 </project>
