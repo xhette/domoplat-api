@@ -1,26 +1,35 @@
 ﻿using System.Net;
 using Confluent.Kafka;
 using Domoplat.System.MessageQueue.Config;
+using Domoplat.System.MessageQueue.Consuming.Interfaces;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Domoplat.System.MessageQueue.Consuming;
+namespace Domoplat.System.MessageQueue.Consuming.Consumers;
 
+/// <summary>
+/// Потребитель очереди сообщений
+/// </summary>
+/// <typeparam name="TKey">Тип ключа</typeparam>
+/// <typeparam name="TMessage">Тип сообщения</typeparam>
 public class MessageConsumer<TKey, TMessage> : BackgroundService
 {
-    private readonly IOptions<KafkaConfig> _kafkaConfig;
+    private readonly KafkaConfig _kafkaConfig;
     private readonly ILogger<MessageConsumer<TKey, TMessage>> _logger;
     private readonly IMessageConsumeHandler<TMessage> _messageConsumeHandler;
+    private readonly IDeserializer<TMessage> _deserializer;
     
     private readonly string _topic;
 
     public MessageConsumer(
-        IOptions<KafkaConfig> kafkaConfig,
-        ILogger<MessageConsumer<TKey, TMessage>> logger, IMessageConsumeHandler<TMessage> messageConsumeHandler)
+        KafkaConfig kafkaConfig,
+        ILogger<MessageConsumer<TKey, TMessage>> logger, IMessageConsumeHandler<TMessage> messageConsumeHandler,
+        IDeserializer<TMessage> deserializer)
     {
         _logger = logger;
         _messageConsumeHandler = messageConsumeHandler;
+        _deserializer = deserializer;
         _kafkaConfig = kafkaConfig;
         _topic = typeof(TMessage).Name;
     }
@@ -35,7 +44,6 @@ public class MessageConsumer<TKey, TMessage> : BackgroundService
         }
         
         var consumer = BuildConsumer();
-        
         consumer.Subscribe(_topic);
 
         try
@@ -72,7 +80,7 @@ public class MessageConsumer<TKey, TMessage> : BackgroundService
     
     private ClientConfig BuildClientConfig() => new()
     {
-        BootstrapServers = _kafkaConfig.Value.BootstrapServers,
+        BootstrapServers = _kafkaConfig.BootstrapServers,
         AllowAutoCreateTopics = true,
         ClientId = Dns.GetHostName()
     };
@@ -81,10 +89,12 @@ public class MessageConsumer<TKey, TMessage> : BackgroundService
     {
         var config = new ConsumerConfig
         {
-            BootstrapServers = _kafkaConfig.Value.BootstrapServers,
-            GroupId = _kafkaConfig.Value.GroupId
+            BootstrapServers = _kafkaConfig.BootstrapServers,
+            GroupId = _kafkaConfig.GroupId
         };
         
-        return new ConsumerBuilder<TKey, TMessage>(config).Build();
+        return new ConsumerBuilder<TKey, TMessage>(config)
+            .SetValueDeserializer(_deserializer)
+            .Build();
     }
 }

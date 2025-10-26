@@ -1,4 +1,4 @@
-namespace Domoplat.System.MessageQueue.Consuming;
+namespace Domoplat.System.MessageQueue.Consuming.Interfaces;
 
 public interface IMessageConsumeHandler<TMessage>
 {

@@ -1,11 +1,15 @@
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\bin\Debug\net9.0\Domoplat.Notifications.Application.deps.json
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\bin\Debug\net9.0\Domoplat.Notifications.Application.dll
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\bin\Debug\net9.0\Domoplat.Notifications.Application.pdb
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\bin\Debug\net9.0\Domoplat.Notifications.Contracts.dll
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\bin\Debug\net9.0\Domoplat.System.MessageQueue.dll
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\bin\Debug\net9.0\Domoplat.System.MessageQueue.pdb
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\bin\Debug\net9.0\Domoplat.Notifications.Contracts.pdb
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.Notifications.Application.csproj.AssemblyReference.cache
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.Notifications.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.Notifications.Application.AssemblyInfoInputs.cache
-C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.Notifications.Application.AssemblyInfo.cs
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.Notifications.Application.csproj.CoreCompileInputs.cache
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.Notifications.Application.sourcelink.json
+C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.63657E83.Up2Date
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.Notifications.Application.dll
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\refint\Domoplat.Notifications.Application.dll
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Application\obj\Debug\net9.0\Domoplat.Notifications.Application.pdb

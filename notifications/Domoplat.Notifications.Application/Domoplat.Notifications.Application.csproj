@@ -2,4 +2,15 @@
 
   <Import Project="../../parent.props" />
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\backend-libraries\Domoplat.System.MessageQueue\Domoplat.System.MessageQueue.csproj" />
+    <ProjectReference Include="..\Domoplat.Notifications.Contracts\Domoplat.Notifications.Contracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="15.1.0" />
+    <PackageReference Include="MailKit" Version="4.14.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="9.0.8" />
+  </ItemGroup>
+
 </Project>

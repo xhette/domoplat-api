@@ -2,8 +2,6 @@ C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\bin\Debug\n
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\bin\Debug\net9.0\Domoplat.Notifications.Contracts.dll
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\bin\Debug\net9.0\Domoplat.Notifications.Contracts.pdb
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\obj\Debug\net9.0\Domoplat.Notifications.Contracts.GeneratedMSBuildEditorConfig.editorconfig
-C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\obj\Debug\net9.0\Domoplat.Notifications.Contracts.AssemblyInfoInputs.cache
-C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\obj\Debug\net9.0\Domoplat.Notifications.Contracts.AssemblyInfo.cs
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\obj\Debug\net9.0\Domoplat.Notifications.Contracts.csproj.CoreCompileInputs.cache
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\obj\Debug\net9.0\Domoplat.Notifications.Contracts.sourcelink.json
 C:\study\domoplat-api\notifications\Domoplat.Notifications.Contracts\obj\Debug\net9.0\Domoplat.Notifications.Contracts.dll
